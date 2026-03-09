@@ -34,6 +34,54 @@ export const products = [
     ],
     stockCount: 6,
     price: 400,
+  },
+  {
+    id: 4,
+    imageSrc: "images/apple-watch.png",
+    title: "Apple Watch 9",
+    specification: [
+      "45mm or 41mm case size",
+      "Always-On Retina display",
+      "Up to 18 hours normal use",
+    ],
+    stockCount: 6,
+    price: 400,
+  },
+  {
+    id: 5,
+    imageSrc: "images/apple-watch.png",
+    title: "Apple Watch 9",
+    specification: [
+      "45mm or 41mm case size",
+      "Always-On Retina display",
+      "Up to 18 hours normal use",
+    ],
+    stockCount: 6,
+    price: 400,
+  },
+  {
+    id: 6,
+    imageSrc: "images/apple-watch.png",
+    title: "Apple Watch 9",
+    specification: [
+      "45mm or 41mm case size",
+      "Always-On Retina display",
+      "Up to 18 hours normal use",
+    ],
+    stockCount: 6,
+    price: 400,
+  },
+  {
+    id: 7,
+    imageSrc: "images/apple-watch.png",
+    title: "Apple Watch 9",
+    specification: [
+      "45mm or 41mm case size",
+      "Always-On Retina display",
+      "Up to 18 hours normal use",
+    ],
+    stockCount: 6,
+    price: 400,
   }
 
 ];
